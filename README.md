@@ -1,1 +1,0 @@
-This is Seoul2045's first git project!
